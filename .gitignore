@@ -1,0 +1,8 @@
+jobs/
+node_modules/
+bin/
+.c9
+config.local.js
+app/bower_components/
+*.swp
+npm-debug.log
